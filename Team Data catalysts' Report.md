@@ -5,7 +5,7 @@
 This is data from Zentel Network Service Center. Everyday, customers log their different types of complaints across their branches and expect quick responses and resolutions to their queries. This is however contained in the service level agreement with Zentel.
 The service center has different managers and operators looking into the customers' issues and performance can be measured weekly and daily.
 # The Problem
-Zentel Network Service Center needs a dashboard to monitor the performancw of their customer service agents and easily find out issues that might be affecting their performance daily or weekly.
+Zentel Network Service Center needs a dashboard to monitor the performance of their customer service agents and easily find out issues that might be affecting their performance daily or weekly.
 # Solution Apporach
 We understand that there are two major stakeholder categories that might find our dashboard useful: the top executives and the managers. The top executives will need to see a general overview of the performances of the managers' teams and each managers will want to see the performance of his or her team operators. Hence, our dashboard is divided into a general overview for top executives and a narrow overview where the managers will see performances of operators in their teams.
 # Data Transformation
