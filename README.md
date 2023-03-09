@@ -1,5 +1,5 @@
 # ZENTEL NETWORK PERFORMANCE REPORT
-## ***TEAM DATA CATALYSTS- 4th Position, DataFestAfrica Datathon***
+## ***TEAM DATA CATALYSTS- 4th Position, DataFestAfrica Datathon 2022***
 
 ## INTRODUCTION
 
