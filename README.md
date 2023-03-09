@@ -44,6 +44,8 @@ There are five dimension tables and one fact table where the "Service Data" tabl
 
 [HERE IS THE LINK TO OUR DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiNzQyMmUwZTktZjU5OS00N2FlLWIzOTAtYjhjYmExZjUyNzQ2IiwidCI6ImVhMTJjZDQzLTY2NTYtNDFmYi05NmQwLThlMDkyMjg0YjIzOCJ9)
 
+The first page is tailored for the C-executives to monitor the general overview of the different teams. While the second page is tailored for the managers to view the performances of their respective team operators.
+
 # Findings
 There are a total of 5998 tickets over 30 days with an average response time of 274 seconds which is way above the target of 15 seconds. This is a very poor performance. 
 
