@@ -57,9 +57,9 @@ Seeing that the average response is way higher than the target, most of these ti
 
 ![10 sec](https://user-images.githubusercontent.com/107109434/201457019-d36974f5-1485-4338-a58c-93133b54473c.PNG)
 
-## Who and what could be the cause of this? 
+### Who and what could be the cause of this? 
 
-### Let’s begin with the who!
+***Let’s begin with the who!***
 
 ### Wale and Victor are at both extremes
 
@@ -75,7 +75,7 @@ Akin has the worst performance regarding the response time in three different da
 
 ![akin](https://user-images.githubusercontent.com/107109434/201457581-4055f7c4-2778-48e7-b4f8-76a5c927c83d.PNG)
 
-### But should Akin be pardoned? Probably if he has high turn around time. 
+### But should Akin be pardoned? Probably if he has fast resolution time.
 
 Unfortunately, Akin still has the worst performing resolution time in two different days. He really needs to be put in check 
 
@@ -106,6 +106,7 @@ However, we noticed that the response times vary across the different teams. Let
 *Victor's channel of notification* 
 
 ![channel vic](https://user-images.githubusercontent.com/107109434/201459893-1d89ccb0-d718-4d21-b3a8-5637b0738b18.PNG)
+
 
 *Wale's channel of notification*
 
